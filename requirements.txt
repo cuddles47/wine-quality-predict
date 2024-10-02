@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaBorn
+numpy
+scikit-learn
+tensorflow
+imblearn
+warnings
